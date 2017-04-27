@@ -2,4 +2,10 @@
   border:1px solid #FF0000;
   text-align:center;
   width:10%;
+  transition: all 1s;
+}
+
+.playing{
+  transform: scale(1.2);
+  border-color: #0FAB10;
 }
